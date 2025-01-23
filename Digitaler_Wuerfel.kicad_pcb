@@ -14030,7 +14030,7 @@
 	)
 	(gr_line
 		(start 70.5 26.5)
-		(end 75 30.5)
+		(end 75.096194 31.096194)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -14050,14 +14050,14 @@
 		(uuid "5c3ebe57-ac2c-4992-859a-ef04f5924235")
 	)
 	(gr_line
-		(start 75 48.5)
-		(end 70.5 53)
+		(start 75.096194 31.096194)
+		(end 75.096194 48.403806)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "76659367-d4ef-4484-afd6-e5353b00df04")
+		(uuid "7dc88430-8245-4374-b0a8-7c794e50b430")
 	)
 	(gr_line
 		(start 144 120)
@@ -14130,16 +14130,6 @@
 		(layer "Edge.Cuts")
 		(uuid "bd9111e7-3277-4d9b-8848-1d38d7d9db1b")
 	)
-	(gr_line
-		(start 75 30.5)
-		(end 75 48.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "d4088add-36ad-485b-88c9-850105ea8ac5")
-	)
 	(gr_arc
 		(start 75.5 120)
 		(mid 71.964466 118.535534)
@@ -14150,6 +14140,16 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "e8473761-2f53-42ce-b57c-f8412c087682")
+	)
+	(gr_line
+		(start 70.5 53)
+		(end 75.096194 48.403806)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f1f77893-702b-4eb7-8b70-05c2ad3d121d")
 	)
 	(gr_text "by Jan Wielpütz\nhttps://github.com/janWie96/SchuettelDice.git"
 		(at 75.5 115 270)
